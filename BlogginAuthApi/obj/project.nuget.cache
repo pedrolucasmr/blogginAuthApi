@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7HPpA8Ya6GJc/5l2FidnRq1EKT2DH9vUwVkFx/KY6BWl3xi1aDMIZvy8POQetmSjaQuFAmtGK3p6FylWQ2T1+w==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\BlogginAuthApi\\BlogginAuthApi\\BlogginAuthApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pedro Lucas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Pedro Lucas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Pedro Lucas\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Pedro Lucas\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Pedro Lucas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Pedro Lucas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
